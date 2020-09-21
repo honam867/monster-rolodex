@@ -2,7 +2,7 @@
   "name": "monster-roledex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/honam867/monster-rolodex.git",
+  "homepage": "https://honam867.github.io/monster-roledex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
